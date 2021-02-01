@@ -3,5 +3,5 @@
 
 ## Pop The Balloon
 
-Pop as many red balloons as you can!
+Pop as many red balloons as you can, don't let them get away!
 
